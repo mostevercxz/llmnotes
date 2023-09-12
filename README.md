@@ -16,3 +16,8 @@ github 上开源的 chat 类应用:
 ## prompt engineering
 
 [claude提示词工程师的建议](https://twitter.com/op7418/status/1696868059770925391)
+
+## 评测数据集
+
+[LongChat数据集格式](https://github.com/DachengLi1/LongChat),参考下这个 https://github.com/DachengLi1/LongChat/blob/longeval/longeval/evaluation/topics/predictions/chatglm2-6b/5_response.txt
+看下怎么评估数据集质量的
