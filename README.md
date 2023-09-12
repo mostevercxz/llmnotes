@@ -24,6 +24,10 @@ github 上开源的 chat 类应用:
 
 ## prompts
 
+### 川虎的提示词
+
+https://github.com/GaiZhenbiao/ChuanhuChatGPT/blob/main/templates/1%20%E4%B8%AD%E6%96%87%E6%8F%90%E7%A4%BA%E8%AF%8D.json
+
 ### replicate 训练 Homer Simpson
 reference: https://github.com/daanelson/homerbot_errata/blob/main/simpsons_analytics.ipynb
 1. 从Kaggle的《辛普森一家》数据集中拿到 simpsons_script_lines.csv 。内有辛普森一家第 27 季之前所有剧集的剧本。
